@@ -4,7 +4,7 @@ const Navbar = (props) => {
   return (
     <div className="navbar flex items-center justify-between p-1">
       <div className="logo text-black text-xl font-semibold font-sans mx-1">
-        KiranMarketplace
+        Marketplace
       </div>
       <div className="addtocart flex justify-evenly items-center p-1 rounded mr-1 mt-1">
         <div className="font-bold">
